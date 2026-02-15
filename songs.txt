@@ -1,8 +1,4 @@
 hello song
 finished song
 12345
-new content here
-1
-2
-3
-4
+new content
